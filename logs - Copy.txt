@@ -1,0 +1,319 @@
+"H:\personal codes\python\email\venv\Scripts\python.exe" "H:/personal codes/python/email/mark3.py"
+
+LET'S START
+
+OWN EMAIL 
+yaadnahiabhi@gmail.com
+OWN PASSWORD 
+***********
+
+NOW MAIN TASK
+
+loggedin
+SENT  anushkaagarwal1234@gmail.com
+ID   OA93167354
+password  oracleacademy
+
+SENT  aneesha772000@gmail.com
+ID   OA93167355
+password  oracleacademy
+
+SENT  maharsh.bajpai27@gmail.com
+ID   OA93167356
+password  oracleacademy
+
+SENT  janvibhalala02@gmail.com
+ID   OA93167357
+password  oracleacademy
+
+SENT  bhamrasidsingh@gmail.com
+ID   OA93167358
+password  oracleacademy
+
+SENT  sambhavbhansali789@gmail.com
+ID   OA93167359
+password  oracleacademy
+
+SENT  harshcoc172@gmail.com
+ID   OA93167360
+password  oracleacademy
+
+SENT  hrithikchauhan01@gmail.com
+ID   OA93167361
+password  oracleacademy
+
+SENT  choudharyarvind182@gmail.com
+ID   OA93167362
+password  oracleacademy
+
+SENT  dhirajchd16@gmail.com
+ID   OA93167363
+password  oracleacademy
+
+SENT  yaadnahiabhi@gmail.com
+ID   lot 1 finished
+password  roll number 1-10
+
+
+TASK SUCCESSFULLY COMPLETED
+
+Process finished with exit code 0
+
+
+
+"H:\personal codes\python\email\venv\Scripts\python.exe" "H:/personal codes/python/email/mark3.py"
+
+LET'S START
+
+OWN EMAIL 
+yaadnahiabhi@gmail.com
+OWN PASSWORD 
+***********
+
+NOW MAIN TASK
+
+loggedin
+SENT  parthgc786@gmail.com
+ID   OA93167364
+password  oracleacademy
+
+SENT  dc.aaryen@gmail.com
+ID   OA93167365
+password  oracleacademy
+
+SENT  pdabhi502@gmail.com
+ID   OA93167366
+password  oracleacademy
+
+SENT  dalvidevendra83@gmail.com
+ID   OA93167367
+password  oracleacademy
+
+SENT  rohan.darji12397@gmail.com
+ID   OA93167368
+password  oracleacademy
+
+SENT  gauravdatt2000@gmail.com
+ID   OA93167369
+password  oracleacademy
+
+SENT  dhruvshah28@gmail.com
+ID   OA93167370
+password  oracleacademy
+
+SENT  desaishefali507@gmail.com
+ID   OA93167371
+password  oracleacademy
+
+SENT  rdeshpande2000@gmail.com
+ID   OA93167372
+password  oracleacademy
+
+SENT  dadhawane@gmail.com
+ID   OA93167373
+password  oracleacademy
+
+SENT  yaadnahiabhi@gmail.com
+ID   lot 2 done
+password  roll number 11-20
+
+
+TASK SUCCESSFULLY COMPLETED
+
+Process finished with exit code 0
+
+
+
+
+"H:\personal codes\python\email\venv\Scripts\python.exe" "H:/personal codes/python/email/mark3.py"
+
+LET'S START
+
+OWN EMAIL 
+yaadnahiabhi@gmail.com
+OWN PASSWORD 
+***********
+
+NOW MAIN TASK
+
+loggedin
+SENT  tanvidhumal.1419@gmail.com
+ID   OA93167374
+password  oracleacademy
+
+SENT  r.dichwalkar@gmail.com
+ID   OA93167375
+password  oracleacademy
+
+SENT  yaadnahiabhi@gmail.com
+ID   OA93167376
+password  oracleacademy
+
+SENT  abhiroop.ghosh23@gmail.com
+ID   OA93167377
+password  oracleacademy
+
+SENT  japangor@gmail.com
+ID   OA93167378
+password  oracleacademy
+
+SENT  harmishgothi@gmail.com
+ID   OA93167379
+password  oracleacademy
+
+SENT  yashijain2011@gmail.com
+ID   OA93167380
+password  oracleacademy
+
+SENT  ateebaj@gmail.com
+ID   OA93167381
+password  oracleacademy
+
+SENT  ronakjethava1908@gmail.com
+ID   OA93167382
+password  oracleacademy
+
+SENT  rahulj.rj642@gmail.com
+ID   OA93167383
+password  oracleacademy
+
+SENT  yaadnahiabhi@gmail.com
+ID   lot 3 done
+password  roll number 21-30
+
+
+TASK SUCCESSFULLY COMPLETED
+
+Process finished with exit code 0
+
+
+
+
+
+
+"H:\personal codes\python\email\venv\Scripts\python.exe" "H:/personal codes/python/email/mark3.py"
+
+LET'S START
+
+OWN EMAIL 
+yaadnahiabhi@gmail.com
+OWN PASSWORD 
+***********
+
+NOW MAIN TASK
+
+loggedin
+SENT  rut27jo@gmail.com
+ID   OA93167384
+password  oracleacademy
+
+SENT  adikalan745@gmail.com
+ID   OA93167385
+password  oracleacademy
+
+SENT  sejalkalbhor1@gmail.com
+ID   OA93167386
+password  oracleacademy
+
+SENT  jaykapasi2000@gmail.com
+ID   OA93167387
+password  oracleacademy
+
+SENT  nk89994999@gmail.com
+ID   OA93167388
+password  oracleacademy
+
+SENT  shriyashkarekar22@gmail.com
+ID   OA93167389
+password  oracleacademy
+
+SENT  saishkarkera@gmail.com
+ID   OA93167390
+password  oracleacademy
+
+SENT  kaqueel19@gmail.com
+ID   OA93167391
+password  oracleacademy
+
+SENT  khanimranali444@gmail.com
+ID   OA93167392
+password  oracleacademy
+
+SENT  dhruvkhara@gmail.com
+ID   OA93167393
+password  oracleacademy
+
+SENT  yaadnahiabhi@gmail.com
+ID   lot 4 done
+password  roll number 31-40
+
+
+TASK SUCCESSFULLY COMPLETED
+
+Process finished with exit code 0
+
+
+
+
+"H:\personal codes\python\email\venv\Scripts\python.exe" "H:/personal codes/python/email/mark3.py"
+
+LET'S START
+
+OWN EMAIL 
+yaadnahiabhi@gmail.com
+OWN PASSWORD 
+***********
+
+NOW MAIN TASK
+
+loggedin
+SENT  dikshukotian99@gmail.com
+ID   OA93167394
+password  oracleacademy
+
+SENT  prafulkudikala@gmail.com
+ID   OA93167395
+password  oracleacademy
+
+SENT  yash107636@gmail.com
+ID   OA93167396
+password  oracleacademy
+
+SENT  abhijeetkundu14@gmail.com
+ID   OA93167397
+password  oracleacademy
+
+SENT  preetmaru49@gmail.com
+ID   OA93167398
+password  oracleacademy
+
+SENT  aarya.master@gmail.com
+ID   OA93167399
+password  oracleacademy
+
+SENT  jimitmehta34@gmail.com
+ID   OA93167400
+password  oracleacademy
+
+SENT  mehtaraj2810@gmail.com
+ID   OA93167401
+password  oracleacademy
+
+SENT  tanvimehta1007@gmail.com
+ID   OA93167402
+password  oracleacademy
+
+SENT  memondanish710000@gmail.com
+ID   OA93167403
+password  oracleacademy
+
+SENT  yaadnahiabhi@gmail.com
+ID   lot 5 done
+password  roll number 41-50
+
+
+TASK SUCCESSFULLY COMPLETED
+
+Process finished with exit code 0
+
+
