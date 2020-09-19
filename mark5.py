@@ -38,8 +38,8 @@ print("LET'S START")
 print("")
 # meraemail = str(input("OWN EMAIL \n"))
 # merapswd = str(input("OWN PASSWORD \n"))
-meraemail = "yaadnahiabhi@gmail.com"
-merapswd = "khuljasimsim"
+meraemail = ""
+merapswd = ""
 
 yagmail.register(meraemail, merapswd)
 
