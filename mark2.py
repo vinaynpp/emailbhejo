@@ -5,7 +5,7 @@ contents = [
     "You can find an audio file attached."
 ]
 print("lets start")
-yagmail.register('yaadnahiabhi@gmail.com', 'khuljasimsim')
+yagmail.register('@gmail.com', '')
 
 print("loggedin")
 with yagmail.SMTP('yaadnahiabhi@gmail.com') as yag:
