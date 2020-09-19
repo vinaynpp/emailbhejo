@@ -2,9 +2,9 @@ import yagmail
 import csv
 import keyring
 
-welcome = ["Thank you for registering for Inter College Event.",
-           " We are looking forward to see on 24th September 2020 and celebrate the 51st NSS Day together.",
-           "Event details:", "Date: 24th September 2020", "Time: 9AM-12PM", "Where: Google Meet"]
+welcome = ["Thank you for registering at the Inter College Mega Event brought to you by NSS UCOE.",
+           " We are looking forward for your enthusiastic participation and celebrate the 51st NSS Day together",
+           "Event details:", "Date: 24th September 2020", "Time: 9AM-12PM", "Platform: Google Meet"]
 
 poster = f"WhatsApp link for Poster Making \n https://chat.whatsapp.com/CQp6wDm5j811ehkFYJAS89"
 bingo = f"WhatsApp link for Virtual Bingo \n https://chat.whatsapp.com/K7OCpFuieAyEAa3uYve67G"
@@ -12,8 +12,8 @@ jali = f"WhatsApp link for Kavyanjali \n https://chat.whatsapp.com/GBqtw9POTMYGh
 step = f"WhatsApp link for Step Up India \n https://chat.whatsapp.com/GyWkv4qGhOg8Cp2UZSx9pw"
 solo = f"WhatsApp link for Solo Act \n https://chat.whatsapp.com/IzrxSEICQDTGlQoxSZ0XR7"
 contactus = ["Note: For joining the session with mobile, you need to install the Google meet app.",
-             "If you have any doubts, please do not hesitate to contact us.",
-             "Contact: Praneeth Hegde -( +91 84250 26490 )", "Wish you all the best!", "Regards,", "NSS UCoE."]
+             "For any doubts/suggestions, please do not hesitate to contact us.",
+             "Contact: Praneeth Hegde -( 8425026490 )", "Wish you all the best!", "Regards,", "NSS UCoE."]
 
 
 def creator(content, events):
@@ -36,10 +36,9 @@ def creator(content, events):
 print("")
 print("LET'S START")
 print("")
-# meraemail = str(input("OWN EMAIL \n"))
-# merapswd = str(input("OWN PASSWORD \n"))
-meraemail = ""
-merapswd = ""
+meraemail = str(input("OWN EMAIL \n"))
+merapswd = str(input("OWN PASSWORD \n"))
+
 
 yagmail.register(meraemail, merapswd)
 
