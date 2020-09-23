@@ -1,8 +1,20 @@
-Hello volunteer,
-
-", "Thank you for registering for Inter College Event. We are looking forward to see on 24th September 2020 and celebrate the 51st NSS Day together.", "Event details:", "Date: 24th September 2020", "Time: 9AM-12PM", "Where: Google Meet
-
-", "Contact: Praneeth Hegde -( phone number )
-
-
-", "Note: For joining the session with mobile, you need to install the Google meet app.", "If you have any doubts, please do not hesitate to contact us.", "Contact: Praneeth Hegde -( phone number )", "Wish you all the best!", "Regards,", "NSS UCoE.
+        if FS0 != "":
+            creator(FS0, LS0, ES0, CS0, CN, E0)
+        if FS1 != "":
+            creator(FS1, LS1, ES1, CS1, CN, E1)
+        if FS2 != "":
+            creator(FS2, LS2, ES2, CS2, CN, E2)
+        if FS3 != "":
+            creator(FS3, LS3, ES3, CS3, CN, E3)
+        if FS4 != "":
+            creator(FS4, LS4, ES4, CS4, CN, E4)
+        if FS5 != "":
+            creator(FS5, LS5, ES5, CS5, CN, E5)
+        if FS6 != "":
+            creator(FS6, LS6, ES6, CS6, CN, E6)
+        if FS7 != "":
+            creator(FS7, LS7, ES7, CS7, CN, E7)
+        if FS8 != "":
+            creator(FS8, LS8, ES8, CS8, CN, E8)
+        if FS9 != "":
+            creator(FS9, LS9, ES9, CS9, CN, E9)

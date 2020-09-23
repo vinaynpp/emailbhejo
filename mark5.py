@@ -54,15 +54,17 @@ with yagmail.SMTP(meraemail) as yag:
         next(reader)  # Skip header row
 
         for Ts, POE, POF, POL, POG, POC, CN, CA, S, QnA, N, FS0, LS0, ES0, CS0, E0, FS1, LS1, ES1, CS1, E1, FS2, LS2, ES2, CS2, E2, FS3, LS3, ES3, CS3, E3, FS4, LS4, ES4, CS4, E4, FS5, LS5, ES5, CS5, E5, FS6, LS6, ES6, CS6, E6, FS7, LS7, ES7, CS7, E7, FS8, LS8, ES8, CS8, E8, FS9, LS9, ES9, CS9, E9 in reader:
+            if POE != "":
+                Pcontents = welcome + [f" Respected {POF} {POL} ", F"PO Of {CN} ", f"{CA}",
+                                       f"You have successfully registered for Inter College Mega Event "]
+                if QnA == "Yes":
+                    Pcontents = Pcontents + ["WhatsApp link for QnA Event is ",
+                                             " https://chat.whatsapp.com/JynIYPLZEglCFLBiF0PGJc"]
+                Pcontents = Pcontents + contactus
 
-            Pcontents = welcome + [f" Respected {POF} {POL} ", F"PO Of {CN} ", f"{CA}",
-                                   f"You have successfully registered for Inter College Mega Event "]
-            if QnA == "Yes":
-                Pcontents = Pcontents + ["WhatsApp link for QnA Event is ",
-                                         " https://chat.whatsapp.com/JynIYPLZEglCFLBiF0PGJc"]
-            Pcontents = Pcontents + contactus
+                yag.send(POE, 'NSS DAY EVENTS DETAIL UCOE', Pcontents)
 
-            yag.send(POE, 'NSS DAY EVENTS DETAIL UCOE', Pcontents)
+
             contents = []
 
             if FS0 != "":
